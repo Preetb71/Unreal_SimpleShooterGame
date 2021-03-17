@@ -1,3 +1,3 @@
 # Unreal_SimpleShooterGame
 A simple shooter game made using Unreal Engine 4.
-Code samples from the project.
+Code samples and screenshots from the project.
